@@ -1,0 +1,118 @@
+{
+  "levels": [
+    {
+      "url": "assets/arid-bush-desert.jpg",
+      "width": 1280,
+      "height": 853,
+      "label": "Arid Bush Desert"
+    },
+    {
+      "url": "assets/baby.jpg",
+      "width": 1280,
+      "height": 853,
+      "label": "Baby"
+    },
+    {
+      "url": "assets/bulldog-pet.jpg",
+      "width": 1280,
+      "height": 853,
+      "label": "Bulldog Pet"
+    },
+    {
+      "url": "assets/couple-love.jpg",
+      "width": 854,
+      "height": 1280,
+      "label": "Couple Love"
+    },
+    {
+      "url": "assets/downtown.jpg",
+      "width": 1280,
+      "height": 853,
+      "label": "Downtown"
+    },
+    {
+      "url": "assets/duck.jpg",
+      "width": 1280,
+      "height": 853,
+      "label": "Duck"
+    },
+    {
+      "url": "assets/ferarri.jpg",
+      "width": 1280,
+      "height": 826,
+      "label": "Ferarri"
+    },
+    {
+      "url": "assets/food.jpg",
+      "width": 1280,
+      "height": 1920,
+      "label": "Food"
+    },
+    {
+      "url": "assets/human-eye.jpg",
+      "width": 1280,
+      "height": 853,
+      "label": "Huamn Eye"
+    },
+    {
+      "url": "assets/jellyfish.jpg",
+      "width": 1280,
+      "height": 1280,
+      "label": "Jellyfish"
+    },
+    {
+      "url": "assets/lemon.jpg",
+      "width": 1280,
+      "height": 854,
+      "label": "Lemon"
+    },
+    {
+      "url": "assets/london.jpg",
+      "width": 1280,
+      "height": 1920,
+      "label": "London"
+    },
+    {
+      "url": "assets/plant.jpg",
+      "width": 1280,
+      "height": 1915,
+      "label": "Plant"
+    },
+    {
+      "url": "assets/rose-bouquet.jpg",
+      "width": 1280,
+      "height": 853,
+      "label": "Rose Bouquet"
+    },
+    {
+      "url": "assets/salad-delicious.jpg",
+      "width": 1280,
+      "height": 853,
+      "label": "Delicious Salad"
+    },
+    {
+      "url": "assets/san-francisco.jpg",
+      "width": 1280,
+      "height": 720,
+      "label": "San Francisco"
+    },
+    {
+      "url": "assets/snow-field.jpg",
+      "width": 1280,
+      "height": 1920,
+      "label": "Snow Field"
+    },
+    {
+      "url": "assets/turtle-underwater.jpg",
+      "width": 1280,
+      "height": 960,
+      "label": "Turtle Underwater"
+    },
+    {
+      "url": "assets/woman-beach.jpg",
+      "width": 1280,
+      "height": 1600,
+      "label": "Woman Beach"
+    }
+  ]
+}
